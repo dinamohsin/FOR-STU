@@ -1,0 +1,21 @@
+Category_Key,Item_Category,Item_Key,Item_Name,Unit_Price
+1,Pizza,1,Veggie Pizza,190
+1,Pizza,14,Margherita,180
+1,Pizza,13,BBQ Chicken,250
+1,Pizza,19,Pepperoni,220
+2,Burger,10,Double Burger,230
+2,Burger,9,Cheese Burger,190
+2,Burger,12,Chicken Burger,180
+2,Burger,2,Classic Burger,170
+3,Pasta,8,White Sauce Pasta,200
+3,Pasta,16,Alfredo Pasta,210
+3,Pasta,18,Bolognese Pasta,220
+3,Pasta,3,Spicy Pasta,215
+4,Dessert,7,Cheesecake,90
+4,Dessert,20,Ice Cream,70
+4,Dessert,5,Chocolate Cake,95
+4,Dessert,4,Brownie,85
+5,Drinks,15,Lemon Mint,60
+5,Drinks,11,Water,25
+5,Drinks,6,Cola,40
+5,Drinks,17,Orange Juice,55
